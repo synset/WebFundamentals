@@ -11,6 +11,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Headings", "Headings\Headin
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Paragraphs", "Paragraphs\Paragraphs.vbproj", "{81125B0A-C170-4901-880B-A1E8C560D5F4}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MyTODOList", "MyTODOList\MyTODOList.vbproj", "{EBE23A9B-8F20-4B19-8818-71A0438F4D83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{81125B0A-C170-4901-880B-A1E8C560D5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81125B0A-C170-4901-880B-A1E8C560D5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81125B0A-C170-4901-880B-A1E8C560D5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE23A9B-8F20-4B19-8818-71A0438F4D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE23A9B-8F20-4B19-8818-71A0438F4D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE23A9B-8F20-4B19-8818-71A0438F4D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE23A9B-8F20-4B19-8818-71A0438F4D83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
