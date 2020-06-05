@@ -15,6 +15,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MyTODOList", "MyTODOList\My
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HelloHTML", "HelloHTML\HelloHTML.vbproj", "{06333CDD-13B3-44EC-92AD-C3085D403974}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Website", "Website\Website.vbproj", "{DCB7E462-3735-4C7E-87B6-2D5A111A3B48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{06333CDD-13B3-44EC-92AD-C3085D403974}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06333CDD-13B3-44EC-92AD-C3085D403974}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06333CDD-13B3-44EC-92AD-C3085D403974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB7E462-3735-4C7E-87B6-2D5A111A3B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB7E462-3735-4C7E-87B6-2D5A111A3B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB7E462-3735-4C7E-87B6-2D5A111A3B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB7E462-3735-4C7E-87B6-2D5A111A3B48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
