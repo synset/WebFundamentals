@@ -13,6 +13,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Paragraphs", "Paragraphs\Pa
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MyTODOList", "MyTODOList\MyTODOList.vbproj", "{EBE23A9B-8F20-4B19-8818-71A0438F4D83}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HelloHTML", "HelloHTML\HelloHTML.vbproj", "{06333CDD-13B3-44EC-92AD-C3085D403974}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EBE23A9B-8F20-4B19-8818-71A0438F4D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBE23A9B-8F20-4B19-8818-71A0438F4D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBE23A9B-8F20-4B19-8818-71A0438F4D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06333CDD-13B3-44EC-92AD-C3085D403974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06333CDD-13B3-44EC-92AD-C3085D403974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06333CDD-13B3-44EC-92AD-C3085D403974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06333CDD-13B3-44EC-92AD-C3085D403974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
