@@ -21,6 +21,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Fruits", "Fruits\Fruits.vbp
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Receipt", "Receipt\Receipt.vbproj", "{ED72AAF9-3A9C-4B66-B79D-D821A988475E}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Colors", "Colors\Colors.vbproj", "{B9EC3489-5902-453A-8F93-B65EF8100ABD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{ED72AAF9-3A9C-4B66-B79D-D821A988475E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED72AAF9-3A9C-4B66-B79D-D821A988475E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED72AAF9-3A9C-4B66-B79D-D821A988475E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9EC3489-5902-453A-8F93-B65EF8100ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9EC3489-5902-453A-8F93-B65EF8100ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9EC3489-5902-453A-8F93-B65EF8100ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9EC3489-5902-453A-8F93-B65EF8100ABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
