@@ -33,6 +33,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ContactUs", "ContactUs\Cont
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ContactUsForm", "ContactUsForm\ContactUsForm.vbproj", "{900F9A21-5061-4111-8DF6-435C59B59DC7}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NavigationBar", "NavigationBar\NavigationBar.vbproj", "{60BB320A-9445-4469-B765-365E6A6032E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{900F9A21-5061-4111-8DF6-435C59B59DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{900F9A21-5061-4111-8DF6-435C59B59DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{900F9A21-5061-4111-8DF6-435C59B59DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60BB320A-9445-4469-B765-365E6A6032E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BB320A-9445-4469-B765-365E6A6032E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BB320A-9445-4469-B765-365E6A6032E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BB320A-9445-4469-B765-365E6A6032E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
